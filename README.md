@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:2563EB,50:1D4ED8,75:1E40AF,100:1E3A8A&height=240&section=header&text=Ra_Manuth&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=FinTech%20Student%20|%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=20&animation=twinkling"/>
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:2563EB,50:1D4ED8,75:1E40AF,100:1E3A8A&height=240&section=header&text=Ra_Manuth&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20FinTech%20Student&descAlignY=58&descSize=20&animation=twinkling"/>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Without+Data,+You+are+just+another+person+with+an+opinion.;Turning+Data+Into+Business+Insights"/>
 </p>
 
 ---
- 
